@@ -1,0 +1,262 @@
+articles": [
+-{
+-"source": {
+"id": null,
+"name": "Times of Malta"
+},
+"author": null,
+"title": "Cybersecurity: Need to act in Malta",
+"description": "Being European Cybersecurity Month, it is apt for us to write about this practice of protecting networks, devices, and any other digital assets from malicious attacks. It has become an increasing field of analysis and study due to the emerging technology that…",
+"url": "https://timesofmalta.com/articles/view/cybersecurity-need-to-act-in-malta.828025",
+"urlToImage": "https://cdn-attachments.timesofmalta.com/52cf54124193e0655003b5e4b7b0d01d74419ae9-1603930818-7148c976-1200x630.jpg",
+"publishedAt": "2020-10-29T05:42:00Z",
+"content": "Being European Cybersecurity Month, it is apt for us to write about this practice of protecting networks, devices, and any other digital assets from malicious attacks. It has become an increasing fie… [+5619 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Bitcoinist"
+},
+"author": "Yashu Gola",
+"title": "A Stable/Bullish Bitcoin Puts Chainlink (LINK) On Road to $20: Analyst",
+"description": "If Bitcoin achieves stability or further bullishness in the sessions ahead, it could help its rival asset Chainlink (LINK) add more value to its market capitalization.",
+"url": "https://bitcoinist.com/a-stable-bullish-bitcoin-puts-chainlink-link-on-road-to-20-analyst/",
+"urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/10/Depositphotos_10450829_s-2019.jpg",
+"publishedAt": "2020-10-29T05:41:35Z",
+"content": "If Bitcoin achieves stability or further bullishness in the sessions ahead, it could help its rival asset Chainlink (LINK) add more value to its market capitalization.\r\nSo says Kevin Svenson, an inde… [+2577 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "eWeek"
+},
+"author": "Charles King",
+"title": "How IBM, R3 Aim to Improve Enterprise Blockchain for Financial Services",
+"description": "eWEEK NEWS ANALYSIS: Big Blue and little-known R3 are collaborating to make blockchain--which many people do not understand--a mainstream business tool.",
+"url": "https://www.eweek.com/pc-hardware/how-ibm-r3-aim-to-improve-enterprise-class-blockchain-for-financial-services",
+"urlToImage": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/10/IBM.R3logos.jpg?alias=social_image",
+"publishedAt": "2020-10-29T05:31:00Z",
+"content": "Blockchain is being promoted for a wide range of business and industrial processes. However, the technology is especially well-suited for financial services use cases where securing highly sensitive … [+5369 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Linecorp.com"
+},
+"author": "Momoki Kota",
+"title": "Introduction of panel discussions with guest speakers in LINE DEVELOPER DAY 2020",
+"description": "<!-- wp:paragraph -->\nHi, this is Momoki from the Developer Success Team.\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\nDuring LINE DEVELOPER DAY 2020, scheduled to be held online November 25-27, 26 of the 156 sessions will be held in a multi-person panel dis…",
+"url": "https://engineering.linecorp.com/en/blog/introduction-of-panel-discussions-with-guest-speakers-in-line-developer-day-2020/",
+"urlToImage": "https://engineering.linecorp.com/wp-content/uploads/2020/10/ogp_panel_EN.png",
+"publishedAt": "2020-10-29T05:14:22Z",
+"content": "Hi, this is Momoki from the Developer Success Team.\r\nDuring LINE DEVELOPER DAY 2020, scheduled to be held online November 25-27, 26 of the 156 sessions will be held in a multi-person panel discussion… [+25260 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Cointelegraph"
+},
+"author": "Cointelegraph By Samuel Haig",
+"title": "Australia's first crypto-friendly IPO will accept Tether",
+"description": "An Aussie company operating an aquaculture farm in Malaysia is conducting the first initial public offering to accept crypto assets in Australia.",
+"url": "https://cointelegraph.com/news/australia-s-first-crypto-friendly-ipo-will-accept-tether",
+"urlToImage": "https://s3.cointelegraph.com/uploads/2020-10/4b69f02b-1cd5-4a73-b9a7-a6eb7830a8d3.jpg",
+"publishedAt": "2020-10-29T05:12:18Z",
+"content": "Australias crypto-friendly capital raising platform Stax has announced its client West Coast Aquaculture Group (WCA) will be conducting the countrys first initial public offering that accepts virtual… [+1530 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Independent.ie"
+},
+"author": "Claire Ballentine",
+"title": "Rising infection numbers drag global stocks lower",
+"description": "Stocks tumbled in the US and Europe as rising coronavirus infections and tougher lockdowns added to worries about the economic hit from the pandemic.",
+"url": "https://www.independent.ie/business/world/rising-infection-numbers-drag-global-stocks-lower-39679814.html",
+"urlToImage": "https://www.independent.ie/business/world/cfe18/39679813.ece/AUTOCROP/w1240h700/CURRENCY-VOLATILITY",
+"publishedAt": "2020-10-29T05:00:00Z",
+"content": "Stocks tumbled in the US and Europe as rising coronavirus infections and tougher lockdowns added to worries about the economic hit from the pandemic.\r\nThe S&amp;P 500 Index fell more than 2.5pc, head… [+2069 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Marginalrevolution.com"
+},
+"author": "Tyler Cowen",
+"title": "What I’ve been reading",
+"description": "1. Bruno Latour, Down to Earth: Politics in the New Climactic Regime.  Mostly not about climate per se, rather how we are failing at being true materialists: “In a sense, Trump’s election confirms, for the rest of the world, the end of a politics oriented tow…",
+"url": "https://marginalrevolution.com/marginalrevolution/2020/10/what-ive-been-reading-178.html",
+"urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+"publishedAt": "2020-10-29T04:10:45Z",
+"content": "1. Bruno Latour, Down to Earth: Politics in the New Climactic Regime.  Mostly not about climate per se, rather how we are failing at being true materialists: “In a sense, Trump’s election confirms, f… [+2345 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Lowendbox.com"
+},
+"author": "raindog308",
+"title": "AlphaVPS: Special Limited-Time Offer for BIG VPSes! (8GB from €5/m in Europe or USA!)",
+"description": "AlphaVPS contacted us with a limited time promotion.  From now until November 5th, you can get some big OpenVZ or KVM VPSes for cheap! When we say “big” we mean…well, big!  8GB of RAM, 2TB of bandwidth, and 4 shared cores.  These systems are available in Bulg…",
+"url": "https://lowendbox.com/blog/alphavps-special-limited-time-offer-for-big-vpses-8gb-from-e5-m-in-europe-or-usa/",
+"urlToImage": "https://lowendbox.com/wp-content/uploads/2020/10/alphavps.png",
+"publishedAt": "2020-10-29T04:00:33Z",
+"content": "AlphaVPS contacted us with a limited time promotion.  From now until November 5th, you can get some big OpenVZ or KVM VPSes for cheap!\r\nWhen we say “big” we mean…well, big!  8GB of RAM, 2TB of bandwi… [+1732 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "newsBTC"
+},
+"author": "Aayush Jindal",
+"title": "TA: Bitcoin Key Indicators Suggest Risk of Extended Downside Correction",
+"description": "Bitcoin price is down over $500 from the $13,850 swing high against the US Dollar. BTC is showing bearish signs and it could even decline below the $13,000 support. Bitcoin failed to stay above the $13,500 support and declined below $13,200. The price is curr…",
+"url": "https://www.newsbtc.com/analysis/btc/bitcoin-risk-of-extended-downside-correction/",
+"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/10/Depositphotos_179456522_l-2015-1.jpg",
+"publishedAt": "2020-10-29T03:48:34Z",
+"content": "Bitcoin price is down over $500 from the $13,850 swing high against the US Dollar. BTC is showing bearish signs and it could even decline below the $13,000 support.\r\n<ul><li>Bitcoin failed to stay ab… [+2250 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Boing Boing"
+},
+"author": "Xeni Jardin",
+"title": "Cybersecurity agency warns of 'imminent, increased cybercrime threat to U.S. hospitals and healthcare providers\"",
+"description": "On Wednesday night less than one week before the election, as COVID-19 cases spike throughout the United States, the nation's cybersecurity agency says: \"there is an imminent and increased cybercrime threat to U.S. hospitals and healthcare providers.\"\n\n\n\nHere…",
+"url": "https://boingboing.net/2020/10/28/cybersecurity-agency-warns-of-imminent-increased-cybercrime-threat-to-u-s-hospitals-and-healthcare-providers.html",
+"urlToImage": "https://i2.wp.com/boingboing.net/wp-content/uploads/2019/10/Hackers.jpg?fit=1200%2C799&ssl=1",
+"publishedAt": "2020-10-29T03:37:31Z",
+"content": "On Wednesday night less than one week before the election, as COVID-19 cases spike throughout the United States, the nation's cybersecurity agency says: \"there is an imminent and increased cybercrime… [+1918 chars]"
+},
+-{
+-"source": {
+"id": "nbc-news",
+"name": "NBC News"
+},
+"author": "Ken Dilanian and Andrew Blankstein and Phil Helsel",
+"title": "FBI, other agencies warn of 'imminent cybercrime threat' to U.S. hospitals",
+"description": "The FBI and other federal agencies are warning of an imminent cybercrime threat to U.S. hospitals and health care provider systems, including ransomware.",
+"url": "https://www.nbcnews.com/news/us-news/fbi-other-agencies-warn-imminent-cybercrime-threat-u-s-hospitals-n1245212",
+"urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_44/3423874/201028-nurse-hospital-computer-ew-1042p_8cca22a7409feb91a4d754a9de678c3b.nbcnews-fp-1200-630.jpg",
+"publishedAt": "2020-10-29T03:32:36Z",
+"content": "Federal agencies are warning of \"an increased and imminent cybercrime threat\" to U.S. hospitals and healthcare providers, including so-called ransomware attacks.\r\nThe warnings were in a report releas… [+3513 chars]"
+},
+-{
+-"source": {
+"id": "usa-today",
+"name": "USA Today"
+},
+"author": "USA TODAY, Michael James, USA TODAY",
+"title": "FBI warns ransomware assault threatens US healthcare system: At least 5 hospitals have been hit this week",
+"description": "Federal officials said \"malicious cyber actors\" could lead to \"data theft and disruption of healthcare services.\"",
+"url": "https://www.usatoday.com/story/news/nation/2020/10/28/fbi-warns-ransomware-assault-threatens-us-healthcare-system/6065612002/",
+"urlToImage": "https://www.gannett-cdn.com/presto/2019/07/25/USAT/e47f8010-2a36-4099-9b72-6275d51274ec-ransomware.ourview.jpg?crop=4523,2544,x1,y273&width=3200&height=1680&fit=bounds",
+"publishedAt": "2020-10-29T03:22:03Z",
+"content": "While the world is focused on battling the coronavirus, cyber attacks have increased in the healthcare field and for individuals. Veuers Justin Kircher has the story.\r\nBuzz60\r\nFederal agents warned W… [+5150 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Michael James, USA TODAY",
+"title": "FBI warns ransomware assault threatens US healthcare system: At least 5 hospitals have been hit this week",
+"description": "Federal officials said \"malicious cyber actors\" could lead to \"data theft and disruption of healthcare services.\"",
+"url": "https://news.yahoo.com/fbi-warns-ransomware-assault-threatens-032203032.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/vTxWZAQnhBjsh5U2XEeAsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xNDcx/https://s.yimg.com/uu/api/res/1.2/lQtJhmJtMzRXSKBO8A9Vsg--~B/aD0zMzI3O3c9NDUyNDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-us/usa_today_news_641/d9be80618702bc8c3319cc0ea9bf5ea4",
+"publishedAt": "2020-10-29T03:22:03Z",
+"content": "Federal agents warned Wednesday that a major ransomware assault is underway against U.S. hospitals, some of which have already been attacked by a shadowy band of cybercriminals.\r\nRansomware is an inc… [+4984 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "FXStreet"
+},
+"author": "Rajarshi Mitra",
+"title": "Bitcoin Cash Price Forecast: BCH’s path to $300 cleared up – Confluence Detector",
+"description": "After the price found support around $207, Bitcoin Cash has been trending upwards in an ascending channel formation. During this upward trend, the Bit",
+"url": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-cash-price-forecast-bchs-path-to-300-cleared-up-confluence-detector-202010290246",
+"urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Cryptocurrencies/Coins/BitcoinCash/bitcoincash_Large.jpg",
+"publishedAt": "2020-10-29T02:46:34Z",
+"content": "<ul><li>BCH bulls face weak resistance in the path back to the $300 zone.</li><li>The daily price chart is currently trending in an ascending channel formation.</li></ul>After the price found support… [+1727 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "newsBTC"
+},
+"author": "Cole Petersen",
+"title": "Bitcoin Is in for Some “Nasty Chop” as Bulls Lose Their Edge, Claims Trader",
+"description": "Bitcoin has seen its first notable pullback since its recent multi-week uptrend first kicked off, with bears catalyzing a strong rejection at $13,800 that briefly caused it to reel below $13,000 earlier this morning. This selling pressure has been quite inten…",
+"url": "https://www.newsbtc.com/analysis/btc/bitcoin-is-in-for-some-nasty-chop-as-bulls-lose-their-edge-claims-trader/",
+"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/10/jason-abdilla-jZWmw6007EY-unsplash-scaled.jpg",
+"publishedAt": "2020-10-29T02:00:58Z",
+"content": "Bitcoin has seen its first notable pullback since its recent multi-week uptrend first kicked off, with bears catalyzing a strong rejection at $13,800 that briefly caused it to reel below $13,000 earl… [+2192 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Bloomberg",
+"title": "Bitcoin falls the most in a month following red-hot rally",
+"description": "“I think that $14,000 is a very key threshold,” said Moya. “Once that level is taken out, there is going to be a lot more upside here.”",
+"url": "https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-falls-the-most-in-a-month-following-red-hot-rally/articleshow/78922992.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-78922982,width-1070,height-580,imgsize-116609,overlay-etmarkets/photo.jpg",
+"publishedAt": "2020-10-29T01:38:39Z",
+"content": "By Casey Wagner and Vildana HajricBitcoins scorching rally lost steam on Wednesday amid widespread risk aversion, falling the most in a month.\r\nThe worlds biggest cryptocurrency by market value slump… [+1505 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Cointelegraph"
+},
+"author": "Cointelegraph By Turner Wright",
+"title": "Digital yuan will combat US 'dollarization' says former PBoC governor",
+"description": "Officials behind China's digital yuan are reportedly more focused on using it to expand retail payments domestically and preventing the dollarization of the country.",
+"url": "https://cointelegraph.com/news/digital-yuan-will-combat-us-dollarization-says-former-pboc-governor",
+"urlToImage": "https://s3.cointelegraph.com/uploads/2020-10/11e29709-5f4e-44c9-8efa-391c3c5c4a03.jpg",
+"publishedAt": "2020-10-29T01:18:15Z",
+"content": "Chinas digital currency approach will favor its domestic retail system and prevent the dollarization of the economy according to one former senior official.\r\nZhou Xiaochuan, the president of the Chin… [+2043 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Bitcoinist"
+},
+"author": "Nick Chong",
+"title": "Bitfinex Whales That Marked the August Highs Suggest Bitcoin to Top",
+"description": "Bitcoin has undergone a strong drop since the highs yesterday. Order book trends indicate that the coin may proceed its reversal in the weeks ahead. Analyst Cole Garner shared a chart showing Bitcoin’s recent price action, along with the order book data from …",
+"url": "https://bitcoinist.com/bitfinex-whales-that-marked-the-august-highs-suggest-bitcoin-to-top/",
+"urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/10/sasha-lebedeva-DoUVMv73nBw-unsplash-1920x1440.jpg",
+"publishedAt": "2020-10-29T01:07:20Z",
+"content": "<ul><li>Bitcoin has undergone a strong drop since the highs yesterday.</li><li>Order book trends indicate that the coin may proceed its reversal in the weeks ahead.</li><li>Analyst Cole Garner shared… [+2692 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Substack.com"
+},
+"author": "Caitlin Johnstone",
+"title": "Humanity's Madness Would Not Be Possible Without Extensive Marketing",
+"description": "Without extensive marketing it would never have occurred to people that inhaling cigarette smoke into their lungs all the time is a nice thing to do. Without extensive marketing it would never have occurred to people that Mountain Dew is something they should…",
+"url": "https://caitlinjohnstone.substack.com/p/humanitys-madness-would-not-be-possible",
+"urlToImage": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4adeb8e7-fe64-4c46-adfc-c4f592ce7403_1200x800.jpeg",
+"publishedAt": "2020-10-29T01:02:29Z",
+"content": "Without extensive marketing it would never have occurred to people that inhaling cigarette smoke into their lungs all the time is a nice thing to do.\r\nWithout extensive marketing it would never have … [+6878 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "newsBTC"
+},
+"author": "Tony Spilotro",
+"title": "Tron Founder Justin Sun Arrives Late To DeFi Party With Chainlink Impersonator",
+"description": "The DeFi party and decentralized oracle boom have come to a conclusion, but only now Justin Sun has shown up with a Chainlink impersonator built on Tron. Has the sun set on this trend, or does the crypto project frontman have something revolutionary up his sl…",
+"url": "https://www.newsbtc.com/analysis/link/tron-founder-justin-sun-arrives-late-to-defi-party-with-chainlink-impersonator/",
+"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/10/tron-founder-justin-sun-chainlink-defi-Depositphotos_12293990_xl-2015-scaled.jpg",
+"publishedAt": "2020-10-29T01:00:26Z",
+"content": "The DeFi party and decentralized oracle boom have come to a conclusion, but only now Justin Sun has shown up with a Chainlink impersonator built on Tron. Has the sun set on this trend, or does the cr… [+3233 chars]"
+}
+]
